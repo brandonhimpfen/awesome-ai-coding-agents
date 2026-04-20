@@ -48,6 +48,7 @@ End-to-end systems focused on autonomous or semi-autonomous coding, task executi
 Tools and extensions that bring AI coding agents directly into development environments.
 
 - [Cursor](https://www.cursor.sh) — AI-first code editor with integrated agent capabilities.
+- [OpenMagic](https://github.com/Kalmuraee/OpenMagic) — Browser-side AI coding toolbar for live web app edits with context capture and approved diffs.
 - [Continue](https://github.com/continuedev/continue) — Open-source AI coding assistant for VS Code and JetBrains.
 - [Codeium](https://www.codeium.com) — AI coding assistant with autocomplete and chat capabilities.
 - [Tabnine](https://www.tabnine.com) — AI code completion tool with privacy-focused deployment options.
