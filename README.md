@@ -68,6 +68,7 @@ Core components and tooling required to build, run, and scale AI coding agents.
 Tools and frameworks for validating agent performance, reliability, and correctness.
 
 - [LangSmith](https://smith.langchain.com) — Observability and evaluation platform for LLM applications and agents.
+- [agenttrace](https://github.com/luoyuctl/agenttrace) — Local TUI for auditing AI coding-agent sessions, token usage, cost, tool failures, latency, anomalies, diffs, and CI evidence.
 - [Promptfoo](https://github.com/promptfoo/promptfoo) — Tool for testing and evaluating LLM prompts and outputs.
 - [DeepEval](https://github.com/confident-ai/deepeval) — Evaluation framework for LLM systems and agents.
 - [HELM](https://github.com/stanford-crfm/helm) — Benchmarking framework for evaluating language models.
