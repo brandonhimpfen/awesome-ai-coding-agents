@@ -57,6 +57,7 @@ Tools and extensions that bring AI coding agents directly into development envir
 
 Core components and tooling required to build, run, and scale AI coding agents.
 
+- [Before You Build Skill](https://github.com/bin1874/before-you-build-skill) — Open-source skill package that helps AI coding agents review product and feature risks before implementation.
 - [OpenAI API](https://platform.openai.com/) — API for accessing advanced language models and tool use capabilities.
 - [vLLM](https://github.com/vllm-project/vllm) — High-performance inference engine for LLMs.
 - [Ollama](https://github.com/ollama/ollama) — Local model runtime for running LLMs on personal machines.
