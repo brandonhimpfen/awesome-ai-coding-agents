@@ -62,6 +62,7 @@ Core components and tooling required to build, run, and scale AI coding agents.
 - [Ollama](https://github.com/ollama/ollama) — Local model runtime for running LLMs on personal machines.
 - [Ray](https://github.com/ray-project/ray) — Distributed execution framework for scaling AI workloads.
 - [Modal](https://modal.com) — Serverless infrastructure for AI workloads and agents.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) — Trust scoring MCP server for AI agents on Solana. Verify wallet identity before x402 micropayments. Free: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## Testing & Evaluation
 
