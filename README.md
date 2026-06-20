@@ -41,7 +41,7 @@ End-to-end systems focused on autonomous or semi-autonomous coding, task executi
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) — Generates entire codebases from prompts with iterative refinement.
 - [Smol Developer](https://github.com/smol-ai/developer) — Minimal agent framework for generating and refining software projects.
 - [MetaGPT](https://github.com/geekan/MetaGPT) — Multi-agent software company simulation for structured code generation.
-- [AgentCoder](https://github.com/agentcoder/AgentCoder) — Multi-agent coding system with planning, coding, and testing roles.
+- [AgentCoder](https://github.com/huangd1999/AgentCoder) — Multi-agent coding system with planning, coding, and testing roles.
 
 ## IDE Integrations
 
@@ -68,6 +68,7 @@ Core components and tooling required to build, run, and scale AI coding agents.
 Tools and frameworks for validating agent performance, reliability, and correctness.
 
 - [LangSmith](https://smith.langchain.com) — Observability and evaluation platform for LLM applications and agents.
+- [ax](https://github.com/Necmttn/ax) — Local telemetry and workflow analytics for AI coding agents.
 - [Promptfoo](https://github.com/promptfoo/promptfoo) — Tool for testing and evaluating LLM prompts and outputs.
 - [DeepEval](https://github.com/confident-ai/deepeval) — Evaluation framework for LLM systems and agents.
 - [HELM](https://github.com/stanford-crfm/helm) — Benchmarking framework for evaluating language models.
