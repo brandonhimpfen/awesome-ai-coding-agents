@@ -42,6 +42,7 @@ End-to-end systems focused on autonomous or semi-autonomous coding, task executi
 - [Smol Developer](https://github.com/smol-ai/developer) — Minimal agent framework for generating and refining software projects.
 - [MetaGPT](https://github.com/geekan/MetaGPT) — Multi-agent software company simulation for structured code generation.
 - [AgentCoder](https://github.com/agentcoder/AgentCoder) — Multi-agent coding system with planning, coding, and testing roles.
+- [Ralph Harness](https://github.com/rxdt/py_ralph_frame) — Minimal repo-local loop scaffold for Claude Code, Codex CLI, and Gemini CLI; uses specs, fresh-context iterations, git hooks, CI verification, and iteration/time caps so agents make small gated commits.
 
 ## IDE Integrations
 
