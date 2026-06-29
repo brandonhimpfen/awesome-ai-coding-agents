@@ -23,6 +23,7 @@
 
 Frameworks and libraries for building AI agents capable of multi-step reasoning, tool use, and code execution.
 
+- [Agent Rigor](https://github.com/MeherBhaskar/agent-rigor) - An Engineering Discipline Framework for AI Coding Assistants that enforces a 6-phase test-driven lifecycle.
 - [LangChain](https://github.com/langchain-ai/langchain) — Framework for building LLM-powered applications with tools, memory, and agents.
 - [LangGraph](https://github.com/langchain-ai/langgraph) — Stateful, graph-based orchestration for building reliable AI agents.
 - [AutoGen](https://github.com/microsoft/autogen) — Multi-agent conversation framework for complex task execution and collaboration.
