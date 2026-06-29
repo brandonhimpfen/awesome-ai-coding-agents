@@ -108,3 +108,4 @@ Pull requests that do not adhere to the contribution guidelines may be closed.
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+- [Agent Rigor](https://github.com/MeherBhaskar/agent-rigor) - An Engineering Discipline Framework for AI Coding Assistants that enforces a 6-phase test-driven lifecycle.
