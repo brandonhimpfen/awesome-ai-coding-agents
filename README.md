@@ -60,6 +60,7 @@ Core components and tooling required to build, run, and scale AI coding agents.
 - [OpenAI API](https://platform.openai.com/) — API for accessing advanced language models and tool use capabilities.
 - [vLLM](https://github.com/vllm-project/vllm) — High-performance inference engine for LLMs.
 - [Ollama](https://github.com/ollama/ollama) — Local model runtime for running LLMs on personal machines.
+- [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) — Local-first memory lifecycle framework for AI coding agents with recall, audit, forgetting, and source-linked evidence.
 - [Ray](https://github.com/ray-project/ray) — Distributed execution framework for scaling AI workloads.
 - [Modal](https://modal.com) — Serverless infrastructure for AI workloads and agents.
 
