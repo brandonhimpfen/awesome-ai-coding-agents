@@ -58,6 +58,7 @@ Tools and extensions that bring AI coding agents directly into development envir
 Core components and tooling required to build, run, and scale AI coding agents.
 
 - [OpenAI API](https://platform.openai.com/) — API for accessing advanced language models and tool use capabilities.
+- [codex-profiles](https://github.com/Ducksss/codex-profiles) — Launches Codex CLI or Desktop with isolated CODEX_HOME profiles for separate accounts and contexts without copying auth.json tokens.
 - [vLLM](https://github.com/vllm-project/vllm) — High-performance inference engine for LLMs.
 - [Ollama](https://github.com/ollama/ollama) — Local model runtime for running LLMs on personal machines.
 - [Ray](https://github.com/ray-project/ray) — Distributed execution framework for scaling AI workloads.
