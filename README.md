@@ -70,6 +70,7 @@ Tools and frameworks for validating agent performance, reliability, and correctn
 - [LangSmith](https://smith.langchain.com) — Observability and evaluation platform for LLM applications and agents.
 - [Promptfoo](https://github.com/promptfoo/promptfoo) — Tool for testing and evaluating LLM prompts and outputs.
 - [DeepEval](https://github.com/confident-ai/deepeval) — Evaluation framework for LLM systems and agents.
+- [Agent Governance for Coding Agents](https://github.com/vanlew1/ai-agent-project-governance) — Local-first scope, evidence, and closure checks for AI coding-agent workflows.
 - [HELM](https://github.com/stanford-crfm/helm) — Benchmarking framework for evaluating language models.
 - [Ragas](https://github.com/explodinggradients/ragas) — Evaluation toolkit for RAG systems and agent outputs.
 
