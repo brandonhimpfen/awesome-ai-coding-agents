@@ -72,6 +72,7 @@ Tools and frameworks for validating agent performance, reliability, and correctn
 - [DeepEval](https://github.com/confident-ai/deepeval) — Evaluation framework for LLM systems and agents.
 - [HELM](https://github.com/stanford-crfm/helm) — Benchmarking framework for evaluating language models.
 - [Ragas](https://github.com/explodinggradients/ragas) — Evaluation toolkit for RAG systems and agent outputs.
+- [Aura](https://github.com/Naridon-Inc/aura) — Open-source VCS tool for reviewing AI-agent code changes with semantic diffs and provenance.
 
 ## Datasets & Benchmarks
 
