@@ -59,9 +59,10 @@ Core components and tooling required to build, run, and scale AI coding agents.
 
 - [OpenAI API](https://platform.openai.com/) — API for accessing advanced language models and tool use capabilities.
 - [vLLM](https://github.com/vllm-project/vllm) — High-performance inference engine for LLMs.
+- [LazyAgent](https://github.com/hung1597865420/LazyAgent) — MCP control plane for coding agents with runtime profiles, lesson memory, review gates, and setup automation.
+- [Modal](https://modal.com) — Serverless infrastructure for AI workloads and agents.
 - [Ollama](https://github.com/ollama/ollama) — Local model runtime for running LLMs on personal machines.
 - [Ray](https://github.com/ray-project/ray) — Distributed execution framework for scaling AI workloads.
-- [Modal](https://modal.com) — Serverless infrastructure for AI workloads and agents.
 
 ## Testing & Evaluation
 
