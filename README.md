@@ -57,11 +57,12 @@ Tools and extensions that bring AI coding agents directly into development envir
 
 Core components and tooling required to build, run, and scale AI coding agents.
 
-- [OpenAI API](https://platform.openai.com/) — API for accessing advanced language models and tool use capabilities.
-- [vLLM](https://github.com/vllm-project/vllm) — High-performance inference engine for LLMs.
-- [Ollama](https://github.com/ollama/ollama) — Local model runtime for running LLMs on personal machines.
-- [Ray](https://github.com/ray-project/ray) — Distributed execution framework for scaling AI workloads.
+- [BundleDex](https://bundledex.net) — Directory of 397+ OKF bundles for AI agents, searchable by keyword, tag, or author. Includes MCP server and llms.txt.
 - [Modal](https://modal.com) — Serverless infrastructure for AI workloads and agents.
+- [Ollama](https://github.com/ollama/ollama) — Local model runtime for running LLMs on personal machines.
+- [OpenAI API](https://platform.openai.com/) — API for accessing advanced language models and tool use capabilities.
+- [Ray](https://github.com/ray-project/ray) — Distributed execution framework for scaling AI workloads.
+- [vLLM](https://github.com/vllm-project/vllm) — High-performance inference engine for LLMs.
 
 ## Testing & Evaluation
 
