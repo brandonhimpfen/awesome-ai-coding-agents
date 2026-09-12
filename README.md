@@ -63,6 +63,7 @@ Core components and tooling required to build, run, and scale AI coding agents.
 - [Ollama](https://github.com/ollama/ollama) — Local model runtime for running LLMs on personal machines.
 - [Ray](https://github.com/ray-project/ray) — Distributed execution framework for scaling AI workloads.
 - [Modal](https://modal.com) — Serverless infrastructure for AI workloads and agents.
+- [ContextStream](https://contextstream.io) — Shared project context for Cursor, Claude Code, Codex, Grok via MCP (`https://mcp.contextstream.io/mcp`). OSS: [contextstream/mcp-server](https://github.com/contextstream/mcp-server). Intelligence isn’t the bottleneck. Context is.
 
 ## Testing & Evaluation
 
