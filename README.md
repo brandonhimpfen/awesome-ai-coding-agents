@@ -43,6 +43,7 @@ End-to-end systems focused on autonomous or semi-autonomous coding, task executi
 - [Smol Developer](https://github.com/smol-ai/developer) — Minimal agent framework for generating and refining software projects.
 - [MetaGPT](https://github.com/geekan/MetaGPT) — Multi-agent software company simulation for structured code generation.
 - [AgentCoder](https://github.com/agentcoder/AgentCoder) — Multi-agent coding system with planning, coding, and testing roles.
+- [Nox](https://github.com/sehynn/nox) — Skill for Claude Code / Codex that runs a queue of independent tickets unattended overnight: design, adversarial review by a separate agent, implementation, tests, then a draft PR per ticket. Hard ceiling at draft-PR creation, never merges or writes to prod. Every README claim links to a real issue/PR in a live demo repo.
 
 ## IDE Integrations
 
