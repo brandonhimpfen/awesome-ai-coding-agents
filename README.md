@@ -44,6 +44,8 @@ End-to-end systems focused on autonomous or semi-autonomous coding, task executi
 - [MetaGPT](https://github.com/geekan/MetaGPT) — Multi-agent software company simulation for structured code generation.
 - [AgentCoder](https://github.com/agentcoder/AgentCoder) — Multi-agent coding system with planning, coding, and testing roles.
 
+- [molt](https://github.com/solvyxtech/molt) — Coding agent that won't say done on a false claim; verification on disk with receipts for accepts and refusals.
+
 ## IDE Integrations
 
 Tools and extensions that bring AI coding agents directly into development environments.
