@@ -43,6 +43,7 @@ End-to-end systems focused on autonomous or semi-autonomous coding, task executi
 - [Smol Developer](https://github.com/smol-ai/developer) — Minimal agent framework for generating and refining software projects.
 - [MetaGPT](https://github.com/geekan/MetaGPT) — Multi-agent software company simulation for structured code generation.
 - [AgentCoder](https://github.com/agentcoder/AgentCoder) — Multi-agent coding system with planning, coding, and testing roles.
+- [mcptask.online](https://mcptask.online/?language=en) — Task queue for people and AI developers, with a runner on your own machine that drives Claude Code, Codex CLI or OpenCode and ends every task as a pull request.
 
 ## IDE Integrations
 
