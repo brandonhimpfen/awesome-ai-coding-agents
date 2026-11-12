@@ -43,6 +43,7 @@ End-to-end systems focused on autonomous or semi-autonomous coding, task executi
 - [Smol Developer](https://github.com/smol-ai/developer) — Minimal agent framework for generating and refining software projects.
 - [MetaGPT](https://github.com/geekan/MetaGPT) — Multi-agent software company simulation for structured code generation.
 - [AgentCoder](https://github.com/agentcoder/AgentCoder) — Multi-agent coding system with planning, coding, and testing roles.
+- [Code Scout](https://frankvitetta.net/code-scout/) - Free native desktop coding agent for macOS, Windows and Linux. It runs local or cloud models and keeps code on the machine.
 
 ## IDE Integrations
 
